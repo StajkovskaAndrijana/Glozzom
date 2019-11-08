@@ -1,0 +1,213 @@
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-nav li.active a {
+    border-left: 2px solid white;
+    background-color: #222 !important;
+}
+
+.first {
+    background-image: url("../img/image1.jpg");
+    height: 70vh;
+}
+
+.image {
+    background-size: cover;
+}
+
+.first>div {
+    height: 100%;
+}
+
+.textone {
+    margin-top: 150px;
+    padding: 0px 10px;
+}
+
+.text {
+    margin-bottom: 130px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.white {
+    color: white;
+}
+
+.second {
+    background-image: url("../img/image2.jpg");
+    height: 70vh;
+}
+
+.third {
+    background-image: url("../img/image3.jpg");
+    height: 70vh;
+}
+
+.feature .fas {
+    font-size: 3rem;
+    padding: 25px 0px 5px 0px;
+}
+
+.started {
+    background-image: url("../img/lights.jpg");
+    background-attachment: fixed;
+    min-height: 20vh;
+}
+
+.started .row {
+    padding: 10px;
+}
+
+.laptop .text {
+    padding: 35px 15px 0px 15px;
+    margin-bottom: 0px;
+}
+
+.laptop img {
+    max-width: 100%;
+}
+
+.btn-outline {
+    border: 1px solid red;
+    color: red;
+}
+
+.btn-outline:hover {
+    background-color: red;
+    color: white;
+}
+
+.we-do {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/media.jpg");
+    background-attachment: fixed;
+    height: 20vh;
+    padding-top: 30px;
+}
+
+.we-do .row {
+    height: 100%;
+}
+
+.we-do .fas {
+    cursor: pointer;
+}
+
+.modal .fade .show {
+    padding-right: 0;
+}
+
+.gallery img {
+    max-width: 100%;
+    max-height: 100%;
+    cursor: pointer;
+}
+
+.gallery .img2 {
+    margin: 12px 0px;
+}
+
+.newsletter {
+    min-height: 200px;
+    padding: 30px;
+}
+
+.newsletter h2 {
+    font-weight: bold;
+}
+
+.newsletter input {
+    margin-right: 20px;
+}
+
+.grey {
+    background-color: rgb(56, 56, 56);
+}
+
+.black {
+    background-color: black;
+}
+
+.footer {
+    min-height: 50px;
+    padding-top: 15px;
+}
+
+.pages-header {
+    background-image: url("../img/image1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 63vh;
+}
+
+.relative {
+    position: relative;
+}
+
+.about-us-first img {
+    max-width: 100%;
+    position: absolute;
+    top: -50px;
+}
+
+.cards {
+    margin-top: 120px;
+}
+
+.cards .thumbnail {
+    padding: 10px;
+}
+
+.testimonials {
+    padding-bottom: 20px;
+}
+
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+
+.testimonials p,
+.testimonials small {
+    padding-left: 1rem;
+    font-size: 1.3rem;
+}
+
+.faq .panel-default {
+    margin-bottom: 15px;
+}
+
+.faq .panel-default,
+.faq .panel-heading,
+.faq .panel-body {
+    background-color: rgb(36, 36, 36);
+    border-color: rgb(36, 36, 36);
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: rgb(36, 36, 36);
+}
+
+.service,
+.slideanim,
+.contact {
+    margin-top: 50px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.staff img {
+    max-width: 100%;
+}
